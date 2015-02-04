@@ -1,1 +1,0 @@
-Infsci2711 hw1 done by Shadi Al-Khateeb
